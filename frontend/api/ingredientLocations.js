@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:5001/api/ingredient-locations";
+const API_URL = "https://receptbok-backend.onrender.com/api/ingredient-locations";
 
 export async function getIngredientLocations() {
   const res = await fetch(API_URL);
