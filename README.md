@@ -9,7 +9,9 @@ This project is currently designed for desktop use only.
 There is no mobile implementation yet, so the layout and interface may not work properly on phones or smaller screens. For the best experience, use the app on a desktop or laptop browser.
 
 ## Live Website
+```txt
 https://natisaway.github.io/receptbok/
+```
 
 
 
