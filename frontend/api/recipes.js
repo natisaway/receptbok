@@ -1,4 +1,4 @@
-const BASE_URL = "http://127.0.0.1:5001/api/recipes";
+const BASE_URL = "https://receptbok-backend.onrender.com/api/recipes";
 
 export async function getRecipes(searchTerm = "") {
   const url = searchTerm.trim()
