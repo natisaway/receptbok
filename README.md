@@ -5,6 +5,12 @@ Receptbok is a virtual kitchen manager web app designed to help users keep track
 ## Live Website
 https://natisaway.github.io/receptbok/
 
+## Current Status
+
+This project is currently designed for desktop use only.
+
+There is no mobile implementation yet, so the layout and interface may not work properly on phones or smaller screens. For the best experience, use the app on a desktop or laptop browser.
+
 ## Features
 
 - Track ingredients by name, quantity, unit, and storage location
@@ -25,11 +31,6 @@ https://natisaway.github.io/receptbok/
   - Frontend: GitHub Pages
   - Backend: Render
 
-## Current Status
-
-This project is currently designed for desktop use only.
-
-There is no mobile implementation yet, so the layout and interface may not work properly on phones or smaller screens. For the best experience, use the app on a desktop or laptop browser.
 
 ## Live Links
 
