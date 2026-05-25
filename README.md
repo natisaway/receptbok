@@ -2,6 +2,9 @@
 
 Receptbok is a virtual kitchen manager web app designed to help users keep track of ingredients, storage locations, recipes, and shopping list items. The app is meant to make it easier to know what ingredients are available, where they are stored, and what recipes can be made from the current inventory.
 
+## Live Website
+https://natisaway.github.io/receptbok/
+
 ## Features
 
 - Track ingredients by name, quantity, unit, and storage location
