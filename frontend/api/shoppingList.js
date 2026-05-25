@@ -1,4 +1,4 @@
-const BASE_URL = "http://127.0.0.1:5001/api/shopping-list";
+const BASE_URL = "https://receptbok-backend.onrender.com/api/shopping-list";
 
 export async function getShoppingList() {
   const res = await fetch(BASE_URL);
